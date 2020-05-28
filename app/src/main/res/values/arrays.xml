@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="speciality_array">
+        <item>Neurología</item>
+        <item>Pediatría</item>
+        <item>Psiquiatría</item>
+        <item>Cardiología</item>
+        <item>Dermatología</item>
+    </string-array>
+
+    <string-array name="state_array">
+        <item>Pendiente</item>
+        <item>Cancelada</item>
+        <item>Realizada</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Hospital App</string>
+    <string name="doctors">Doctores</string>
+    <string name="patients">Pacientes</string>
+    <string name="dates">Citas</string>
+    <string name="register_doctor">Registrar Doctor</string>
+    <string name="rut">RUT</string>
+    <string name="names">Nombres</string>
+    <string name="lastnames">Apellidos</string>
+    <string name="save">Guardar</string>
+    <string name="speciality">Especialidad:</string>
+    <string name="doctor_registered">Doctor registrado.</string>
+    <string name="register_patient">Registrar Paciente</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="address">Dirección</string>
+    <string name="patient_registered">Paciente Registrado.</string>
+    <string name="register_date">Registrar Cita</string>
+    <string name="id">ID</string>
+    <string name="rut_doctor">RUT del doctor</string>
+    <string name="rut_patient">RUT del paciente</string>
+    <string name="state">Estado:</string>
+    <string name="choose_date_and_hour">Elegir fecha y hora</string>
+    <string name="date_and_hour_format">dd/mm/aaaa hh:mm</string>
+    <string name="date_registered">Cita Registrada.</string>
+    <string name="fill_all_fields">Completa todos los campos</string>
+    <string name="doctors_list">Lista de Doctores</string>
+    <string name="modify">Modificar</string>
+    <string name="doctor_repeated">Doctor Repetido.</string>
+    <string name="doctor_in_dates">Este doctor tiene citas</string>
+    <string name="patients_list">Lista de Pacientes</string>
+    <string name="patient_in_dates">Este paciente tiene citas</string>
+    <string name="patient_repeated">Paciente Repetido.</string>
+    <string name="doctor_modified">Doctor Modificado.</string>
+    <string name="patient_modified">Paciente Modificado.</string>
+    <string name="date_modified">Fecha Modificada</string>
+    <string name="date_list">Lista de Citas</string>
+    <string name="date_repeated">Cita Repetida.</string>
+
+</resources>

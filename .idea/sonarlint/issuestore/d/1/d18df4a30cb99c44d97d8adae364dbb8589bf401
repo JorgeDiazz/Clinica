@@ -1,0 +1,11 @@
+
+D
+java:S2386=""Make member "doctors" "protected".(Á€¡¨ÿÿÿÿÿ8Ñ‹ÃÑ¥.
+~
+java:S1450:"\Remove the "currentDoctor" field and declare it as a local variable in the relevant methods.(×ğÙùÿÿÿÿ8Ñ‹ÃÑ¥.
+S
+java:S1068:"1Remove this unused "currentDoctor" private field.(×ğÙùÿÿÿÿ8Ñ‹ÃÑ¥.
+O
+java:S14449"-Make this "public static doctors" field final(Û‰°Üÿÿÿÿÿ8Ñ‹ÃÑ¥.
+u
+java:S11049"SMake doctors a static final constant or non-public and provide accessors if needed.(Û‰°Üÿÿÿÿÿ8Ñ‹ÃÑ¥.

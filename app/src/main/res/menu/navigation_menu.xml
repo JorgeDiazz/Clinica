@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btn_doctors"
+        android:icon="@drawable/ic_doctor"
+        android:title="@string/doctors" />
+    <item
+        android:id="@+id/btn_patients"
+        android:icon="@drawable/ic_patients"
+        android:title="@string/patients" />
+    <item
+        android:id="@+id/btn_dates"
+        android:icon="@drawable/ic_date"
+        android:title="@string/dates" />
+</menu>
